@@ -13,8 +13,8 @@ Strategy lets the algorithm vary independently from clients that use it.
 
 ### Project Topic
 
-1.. Most of the project code is taken from the book and implemented in the project 
+1. Most of the project code is taken from the book and implemented in the project 
 	using the Web Form ListView user interface.
-2.. To give you an overview of the strategy template, the UML of the "Head First Design Patterns" 
+2. To give you an overview of the strategy template, the UML of the "Head First Design Patterns" 
 	book Strategy pattern "strategy_class_diagram.png" is placed in the project's root folder.
 
